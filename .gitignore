@@ -37,4 +37,4 @@ override.tf.json
 terraform.rc
 
 # Ignore files containing sensitive data, such as API keys or tokens
-.github-token.txt
+github-token.txt
