@@ -3,7 +3,7 @@
 #also since using AWS provider credsentials must be configured in terraform cloud undewr variables or locally 
 
 #this defines the Terraform Cloud backend and AWS provider
-terraform {
+/*terraform {
   cloud {
     organization = "cvalencia-remote"
     workspaces {
@@ -18,3 +18,4 @@ terraform {
         }
     }
 }
+*/
