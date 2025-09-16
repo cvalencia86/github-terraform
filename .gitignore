@@ -38,3 +38,4 @@ terraform.rc
 
 # Ignore files containing sensitive data, such as API keys or tokens
 **/example.txt
+**/github-token.txt
