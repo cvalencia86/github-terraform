@@ -1,0 +1,2 @@
+this folder is an example of terraform with github actions where the backend is local so github does fail when terraform init is run
+
